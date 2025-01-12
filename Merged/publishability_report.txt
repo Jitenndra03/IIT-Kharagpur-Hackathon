@@ -1,0 +1,14 @@
+
+    --- Publishability Report ---
+    Format Check: Fail
+    Missing Sections: related work|background, reference
+    Citation Check: Fail
+    Citation Count: 0 (Threshold: 5)
+    Readability Score (Flesch): 43.53
+    Estimated Reading Time: 271.52 minutes
+    Grammar Error Percentage: 10.34%
+    ML Prediction: [{'label': 'LABEL_0', 'score': 0.5761860609054565}]
+
+    --- Plagiarism Report ---
+    
+    
